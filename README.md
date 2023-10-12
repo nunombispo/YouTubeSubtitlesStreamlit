@@ -7,4 +7,4 @@ However, sometimes we might want to download a video for offline viewing or gene
 
 In this article, we'll explore a script combining the power of yt-dlp for downloading YouTube videos and AssemblyAI for generating subtitles, wrapped up in a user-friendly Streamlit application.
 
-Full article at: 
+Full article at: https://developer-service.blog/downloading-youtube-videos-and-generating-subtitles-with-streamlit-and-assemblyai/
